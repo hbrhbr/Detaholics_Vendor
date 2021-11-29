@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="E:/flutter/.pub-cache/hosted/pub.dartlang.org/file_picker-2.1.7/android" />
+            <option value="E:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-5.1.8/android" />
+            <option value="E:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-1.5.0+1/android" />
+            <option value="E:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.11/android" />
+            <option value="E:/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-4.0.1/android" />
+            <option value="E:/flutter/.pub-cache/hosted/pub.dartlang.org/geocoder-0.2.1/android" />
+            <option value="E:/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.33/android" />
+            <option value="E:/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.7+22/android" />
+            <option value="E:/flutter/.pub-cache/hosted/pub.dartlang.org/location-3.2.4/android" />
+            <option value="E:/flutter/.pub-cache/hosted/pub.dartlang.org/share-0.6.5+4/android" />
+            <option value="E:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.12+4/android" />
+            <option value="E:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.7.10/android" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
